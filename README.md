@@ -5,8 +5,8 @@ I'm a fullstack developer in Los Angeles. With a background of 8+ years of educa
 #### Languages and Tools
 
 - Frontend: Javascript, HTML, CSS, React, React Router, Bootstrap
-- Backend: Node.js, Express, RESTful APIs, PostgreSQL
-- Tools: Mocha, Chai, Jest, Postman, DBeaver, Knex, Git, GitHub, NPM, Figma, Visual Studio Code
+- Backend: Node.js, Express, Knex, RESTful APIs, PostgreSQL
+- Tools: Mocha, Chai, Jest, Playwright, Postman, DBeaver, Git, GitHub, NPM, Figma, Visual Studio Code
 
 
 :sparkles: My [Portfolio](https://noladodd.github.io/Portfolio/) :sparkles:
